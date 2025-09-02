@@ -1,2 +1,2 @@
-# gidete.github.io
-GIDeTe homepage
+# Grupo de Inovación y Desarrollo Tecnológico
+
