@@ -21,14 +21,14 @@ Promovemos la transferencia efectiva de tecnología y conocimiento científico h
 ## Miembros del Grupo
 
 ### Director/Responsable
-**[Dr. Colazo, Marcelo Eduardo Antonio]()**
+**[Dr. Colazo, Marcelo Eduardo Antonio](https://www.linkedin.com/in/marcelo-colazo-37b0ab4/?originalSubdomain=ar)**
 
 ### Investigadores
-**[Dr. Cabral, Juan Bautista]()**
+**[Dr. Cabral, Juan Bautista](jbcabral.quatrope.org)**
 
 ### Becarios
-- **[Lic. Pacheco, Paula Carolina]()** - *Beca Doctoral Confinanciada CONICET-CONAE*
-- **[Geo. Borda, María Magdalena]()** - *Beca Doctoral Confinanciada CONICET-CONAE*
+- **[Lic. Pacheco, Paula Carolina](https://bicyt.conicet.gov.ar/fichas/p/paula-carolina-pacheco)** - *Beca Doctoral Confinanciada CONICET-CONAE*
+- **[Geo. Borda, María Magdalena](https://bicyt.conicet.gov.ar/fichas/p/maria-magdalena-borda)** - *Beca Doctoral Confinanciada CONICET-CONAE*
 
 
 ## Trabajos Publicados
