@@ -21,11 +21,11 @@ Promovemos la transferencia efectiva de tecnología y conocimiento científico h
 ## Miembros del Grupo
 
 ### Director/Responsable
-- **[Dr. Colazo, Marcelo Eduardo Antonio](https://www.linkedin.com/in/marcelo-colazo-37b0ab4/?originalSubdomain=ar)**
+- **[Dr. Colazo, Marcelo Eduardo Antonio](https://www.linkedin.com/in/marcelo-colazo-37b0ab4/?originalSubdomain=ar)** (Gerente GVT-CONAE)
 
 ### Investigadores
-- **[Dr. Cabral, Juan Bautista](jbcabral.quatrope.org)**
-- **[Lic. Heredia, Sebastián Darío](https://www.linkedin.com/in/sebastian-dario-heredia/)**
+- **[Dr. Cabral, Juan Bautista](jbcabral.quatrope.org)** (Investigador Asistente CONICET, Profesor Adjunto FAMAF-UNC)
+- **[Lic. Heredia, Sebastián Darío](https://www.linkedin.com/in/sebastian-dario-heredia/)** (Responsable de Área GVT-CONAE)
 
 
 ### Becarios
