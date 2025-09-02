@@ -21,9 +21,11 @@ async function readMarkdownAsHTML(filename) {
         throw new Error(`Error al cargar ${filename}: ${response.status} ${response.statusText}`);
     }
 
-    const markdownText = await response.text();
-    const body = markdownText.split('<!-- BODY -->')[1];
-    const htmlContent = marked.parse(body);
+    var markdownText = await response.text();
+    if (markdownText.includes('<!-- BODY -->')) {
+        markdownText = markdownText.split('<!-- BODY -->')[1];
+    }
+    const htmlContent = marked.parse(markdownText);
 
     return htmlContent;
 }
