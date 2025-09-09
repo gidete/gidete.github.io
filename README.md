@@ -6,19 +6,25 @@ El Grupo de Innovación y Desarrollo Tecnológico es una iniciativa conjunta ent
 
 Trabajamos con datos provenientes de múltiples plataformas de observación terrestre, incluyendo cámaras hiperespectrales, radiómetros de alta precisión, radiotelescópios y constelaciones satelitales, optimizando al máximo los recursos técnicos y científicos disponibles en ambas instituciones de excelencia del sistema científico-tecnológico argentino.
 
+Tienes razón, aquí tienes una versión más directa y concreta:
+
 ## Áreas de Especialización
 
-### 🔬 **Desarrollo de Software Innovador**
-Creamos herramientas especializadas de última generación para el análisis, procesamiento e interpretación de datos de sensado remoto, aplicando técnicas de inteligencia artificial y machine learning.
+### 🔬 **Desarrollo de Software**
+Desarrollamos herramientas para analizar datos de satélites usando técnicas de inteligencia artificial y machine learning. Nos enfocamos en crear soluciones prácticas para el procesamiento de imágenes satelitales.
 
-### 👥 **Formación de Capital Humano**
-Desarrollamos programas de capacitación y formación continua para especialistas en tecnologías espaciales, fomentando la excelencia académica y profesional en el sector.
+### 👥 **Capacitación**
+Dictamos cursos y talleres sobre tecnologías espaciales y análisis de datos. Trabajamos con profesionales que necesitan actualizar sus conocimientos en estas áreas.
 
-### 🚀 **Transferencia Tecnológica**
-Promovemos la transferencia efectiva de tecnología y conocimiento científico hacia el sector productivo e industrial, aprovechando la red de contactos y experiencia de CONAE y CONICET para generar valor agregado y competitividad nacional.
+### 🚀 **Colaboración con la Industria**
+Trabajamos con empresas para aplicar nuestras investigaciones en proyectos reales. Conectamos el trabajo científico de CONAE y CONICET con necesidades del sector productivo.
+
+### 🌐 **Otros Proyectos**
+
+El grupo también trabaja en teoría de la decisión, astronomía, neurociencia e ingeniería de software. En todos los casos aplicamos métodos de ciencia de datos para resolver problemas específicos.
 
 
-## Miembros del Grupo
+## Miembros del Grupo./ru   
 
 ### Director/Responsable
 - **[Dr. Colazo, Marcelo Eduardo Antonio](https://www.linkedin.com/in/marcelo-colazo-37b0ab4/?originalSubdomain=ar)** (Gerente GVT-CONAE)
@@ -33,10 +39,28 @@ Promovemos la transferencia efectiva de tecnología y conocimiento científico h
 - **[Geo. Borda, María Magdalena](https://bicyt.conicet.gov.ar/fichas/p/maria-magdalena-borda)** - *Beca Doctoral Confinanciada CONICET-CONAE*
 
 
-## Trabajos Publicados
+## Algunos Trabajos Publicados
 
----
+- **A labeled dataset of cloud types using data from GOES-16 and CloudSat**  
+Jure, P. R., Masuelli, S., & Cabral, J. (2022). *2022 IEEE Biennial Congress of Argentina (ARGENCON)* (pp. 1–6). IEEE.
 
-*Una alianza estratégica entre [CONAE](https://www.conae.gov.ar/) y [CONICET](https://www.conicet.gov.ar/), comprometida con la innovación, la excelencia científica y el desarrollo tecnológico sostenible al servicio del país.*
+- **ETL for the integration of remote sensing data**  
+Romero Jure, P. V., Cabral, J. B., & Masuelli, S. (2023). *Simposio Argentino de Imágenes y Visión (SAIV 2023)-JAIIO 52* (Universidad Nacional de Tres de Febrero, 4 al 8 de septiembre de 2023).
+
+- **Mapping Gated Neighborhoods in the Metropolitan Area of Buenos Aires Using Deep Learning and VHR Multispectral Images**  
+Elseser, A., Cabral, J., Minotti, P., & Gamba, P. (2024). *IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium* (pp. 2755–2759). IEEE.
+
+- **A Test for the Systematic Detection of Bowtie Effect and Stripping on the Edges of MODIS Images**  
+Jure, P. V. R., Masuellli, S., & Cabral, J. B. (2024). *2024 IEEE Biennial Congress of Argentina (ARGENCON)* (pp. 1–6). IEEE.
+
+- **Scikit-NeuroMSI: A Generalized Framework for Modeling Multisensory Integration**  
+Paredes, R., Cabral, J. B., & Seriès, P. (2025). *Neuroinformatics*, *23*(3), 40. Springer US New York.
+
+- **Generación y diseño de herramientas para el análisis de retornos de carteras de inversión artificiales y reales**  
+Giménez, D. N., Luczywo, N., Cabral, J. B., & Funes, M. (2025). *Revista de la Escuela de Perfeccionamiento en Investigación Operativa*, *33*(57).
+
+- **Algorithmic Detection of Rank Reversals, Transitivity Violations, and Decomposition Inconsistencies in Multi-Criteria Decision Analysis**  
+Borda, A., Cabral, J. B., Giarda, G., Irusta, D. N. G., Pacheco, P., & Schachner, A. R. (2025). *arXiv preprint arXiv:2508.00129*.
+
 
 

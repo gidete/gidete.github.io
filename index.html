@@ -8,19 +8,36 @@
     <link rel="icon" id="favicon" type="image/svg+xml" href="">
     <link rel="stylesheet" href="assets/styles.css">
     <style>
-#footer {
-   background-color: #007bff;
-   width: 100%;
-   padding: 20px 0 0 0;
-   text-align: center;
-   margin-top: 30px;
-   border-radius: var(--border-radius-xl) var(--border-radius-xl) 0 0;
-}
+        #footer {
+            background-color: #007bff;
+            width: 100%;
+            padding: 20px 0 0 0;
+            text-align: center;
+            margin-top: 30px;
+            border-radius: var(--border-radius-xl) var(--border-radius-xl) 0 0;
+        }
 
-.container {
-   margin-bottom: 0;
-   padding-bottom: 0;
-}
+        .container {
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+
+        .logo-hovereable {
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin: 0 10px;
+            max-height: 100px;
+        }
+
+        .logo-hovereable:hover {
+            text-decoration: underline;
+            color: #0066cc;
+            opacity: 0.8;
+        }
+
+        .logo-hovereable:active {
+            transform: scale(0.98);
+        }
     </style>
 </head>
 
@@ -37,13 +54,22 @@
         </div>
 
         <div id="footer" , class="footer">
-            <embed src="assets/logos.svg" type="image/svg+xml">
+            <a href="https://www.conicet.gov.ar/" target="_blank">
+                <img src="assets/conicet.png" type="image/svg+xml" class="logo-hovereable">
+            </a>
+            <a href="https://www.conae.gov.ar/" target="_blank">
+                <img src="assets/conae.svg" type="image/svg+xml" class="logo-hovereable">
+            </a>
+            <a href="https://www.unc.edu.ar/" target="_blank">
+                <img src="assets/unc.svg" type="image/svg+xml" class="logo-hovereable">
+            </a>
         </div>
 
     </div>
 
     <script src="assets/marked.umd.js"></script>
     <script src="assets/script.js"></script>
+
 </body>
 
 </html>
