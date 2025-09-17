@@ -62,5 +62,7 @@ Giménez, D. N., Luczywo, N., Cabral, J. B., & Funes, M. (2025). *Revista de la 
 - **Algorithmic Detection of Rank Reversals, Transitivity Violations, and Decomposition Inconsistencies in Multi-Criteria Decision Analysis**  
 Borda, A., Cabral, J. B., Giarda, G., Irusta, D. N. G., Pacheco, P., & Schachner, A. R. (2025). *arXiv preprint arXiv:2508.00129*.
 
+- Borda, M. M., Gómez, F. J., Cabral, J. B., Heredia, S. D., & Pacheco, P. C. (2025). **Mapeo hiperespectral de depósitos carbonáticos mediante imágenes PRISMA en sistemas lacustres de la Patagonia extraandina (provincia de Santa Cruz, Argentina)** \[Poster]. En F. Gomez, E. Piovano, & C. del Papa (Eds.), Actas de la XIX Reunión Argentina de Sedimentología (p. 41). Asociación Argentina de Sedimentología. [https://doi.org/10.5281/zenodo.14861472](https://doi.org/10.5281/zenodo.14861472)
+
 
 
