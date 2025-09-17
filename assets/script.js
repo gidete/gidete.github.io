@@ -15,7 +15,7 @@ function updateTitles(icon, title, subtitle) {
 }
 
 async function readMarkdownAsHTML(filename) {
-    const response = await fetch(filename);
+    const response = await fetch(`${filename}?t=${Date.now()}`);
 
     if (!response.ok) {
         throw new Error(`Error al cargar ${filename}: ${response.status} ${response.statusText}`);
@@ -31,7 +31,7 @@ async function readMarkdownAsHTML(filename) {
 }
 
 async function readConfFromJSON(filename) {
-    const response = await fetch(filename);
+    const response = await fetch(`${filename}?t=${Date.now()}`);
 
     if (!response.ok) {
         throw new Error(`Error al cargar ${filename}: ${response.status} ${response.statusText}`);
