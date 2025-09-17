@@ -41,28 +41,28 @@ El grupo también trabaja en teoría de la decisión, astronomía, neurociencia 
 
 ## Algunos Trabajos Publicados
 
-- **A labeled dataset of cloud types using data from GOES-16 and CloudSat**  
-Jure, P. R., Masuelli, S., & Cabral, J. (2022). *2022 IEEE Biennial Congress of Argentina (ARGENCON)* (pp. 1–6). IEEE.
-
-- **ETL for the integration of remote sensing data**  
-Romero Jure, P. V., Cabral, J. B., & Masuelli, S. (2023). *Simposio Argentino de Imágenes y Visión (SAIV 2023)-JAIIO 52* (Universidad Nacional de Tres de Febrero, 4 al 8 de septiembre de 2023).
-
-- **Mapping Gated Neighborhoods in the Metropolitan Area of Buenos Aires Using Deep Learning and VHR Multispectral Images**  
-Elseser, A., Cabral, J., Minotti, P., & Gamba, P. (2024). *IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium* (pp. 2755–2759). IEEE.
-
-- **A Test for the Systematic Detection of Bowtie Effect and Stripping on the Edges of MODIS Images**  
-Jure, P. V. R., Masuellli, S., & Cabral, J. B. (2024). *2024 IEEE Biennial Congress of Argentina (ARGENCON)* (pp. 1–6). IEEE.
-
-- **Scikit-NeuroMSI: A Generalized Framework for Modeling Multisensory Integration**  
-Paredes, R., Cabral, J. B., & Seriès, P. (2025). *Neuroinformatics*, *23*(3), 40. Springer US New York.
-
-- **Generación y diseño de herramientas para el análisis de retornos de carteras de inversión artificiales y reales**  
-Giménez, D. N., Luczywo, N., Cabral, J. B., & Funes, M. (2025). *Revista de la Escuela de Perfeccionamiento en Investigación Operativa*, *33*(57).
+- Borda, M. M., Gómez, F. J., Cabral, J. B., Heredia, S. D., & Pacheco, P. C. (2025). **Mapeo hiperespectral de depósitos carbonáticos mediante imágenes PRISMA en sistemas lacustres de la Patagonia extraandina (provincia de Santa Cruz, Argentina)** \[Poster]. En F. Gomez, E. Piovano, & C. del Papa (Eds.), Actas de la XIX Reunión Argentina de Sedimentología (p. 41). Asociación Argentina de Sedimentología. [https://doi.org/10.5281/zenodo.14861472](https://doi.org/10.5281/zenodo.14861472)
 
 - **Algorithmic Detection of Rank Reversals, Transitivity Violations, and Decomposition Inconsistencies in Multi-Criteria Decision Analysis**  
 Borda, A., Cabral, J. B., Giarda, G., Irusta, D. N. G., Pacheco, P., & Schachner, A. R. (2025). *arXiv preprint arXiv:2508.00129*.
 
-- Borda, M. M., Gómez, F. J., Cabral, J. B., Heredia, S. D., & Pacheco, P. C. (2025). **Mapeo hiperespectral de depósitos carbonáticos mediante imágenes PRISMA en sistemas lacustres de la Patagonia extraandina (provincia de Santa Cruz, Argentina)** \[Poster]. En F. Gomez, E. Piovano, & C. del Papa (Eds.), Actas de la XIX Reunión Argentina de Sedimentología (p. 41). Asociación Argentina de Sedimentología. [https://doi.org/10.5281/zenodo.14861472](https://doi.org/10.5281/zenodo.14861472)
+- **Generación y diseño de herramientas para el análisis de retornos de carteras de inversión artificiales y reales**  
+Giménez, D. N., Luczywo, N., Cabral, J. B., & Funes, M. (2025). *Revista de la Escuela de Perfeccionamiento en Investigación Operativa*, *33*(57).
+
+- **Scikit-NeuroMSI: A Generalized Framework for Modeling Multisensory Integration**  
+Paredes, R., Cabral, J. B., & Seriès, P. (2025). *Neuroinformatics*, *23*(3), 40. Springer US New York.
+
+- **A Test for the Systematic Detection of Bowtie Effect and Stripping on the Edges of MODIS Images**  
+Jure, P. V. R., Masuellli, S., & Cabral, J. B. (2024). *2024 IEEE Biennial Congress of Argentina (ARGENCON)* (pp. 1–6). IEEE.
+
+- **Mapping Gated Neighborhoods in the Metropolitan Area of Buenos Aires Using Deep Learning and VHR Multispectral Images**  
+Elseser, A., Cabral, J., Minotti, P., & Gamba, P. (2024). *IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium* (pp. 2755–2759). IEEE.
+
+- **ETL for the integration of remote sensing data**  
+Romero Jure, P. V., Cabral, J. B., & Masuelli, S. (2023). *Simposio Argentino de Imágenes y Visión (SAIV 2023)-JAIIO 52* (Universidad Nacional de Tres de Febrero, 4 al 8 de septiembre de 2023).
+
+- **A labeled dataset of cloud types using data from GOES-16 and CloudSat**  
+Jure, P. R., Masuelli, S., & Cabral, J. (2022). *2022 IEEE Biennial Congress of Argentina (ARGENCON)* (pp. 1–6). IEEE.
 
 
 
